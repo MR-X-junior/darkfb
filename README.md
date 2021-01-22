@@ -3,9 +3,13 @@
 *Alat dan bahan*
 
 1.python 2
+
 2.termux (di sarankan)
+
 3.Vpn
+
 4.email
+
 5.apk Facebook lite (di sarankan)
 
 **Cara penggunaan**
